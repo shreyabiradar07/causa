@@ -52,7 +52,7 @@ public interface ValidationAgent {
               "evidence": "Key metrics, observations, and data points supporting the diagnosis",
               "supportedLogs": ["Array of relevant log entries or patterns"],
               "proposedSolution": "Concrete, actionable steps to fix the issue",
-              "validationConfidence": 0.95
+              "validationConfidence": 0.00
             }
 
             IMPORTANT:
